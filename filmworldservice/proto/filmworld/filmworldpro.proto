@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+package go.micro.srv.filmworldservice;
+
+
+service FilmWorldService {
+	rpc GetAllMoviesSingleStream(RequestAllMovies) returns (stream ResponseAllMovies) {}
+	rpc GetMovieByMovieId(RequestMovie) returns (ResponseMovie) {}
+	rpc GetAllMoviesStream(RequestAllMovies) returns (stream ResponseMovieStream) {}
+}
+message RequestAllMovies {}
+message RequestMovie{ int32 Id=1;}
+message ResponseAllMovies {MovieSimpleProto Movie = 1;int32 RecordCount=2;}
+message ResponseMovie {MovieProto Movie = 1;}
+message ResponseMovieStream { MovieSimpleProto Movie = 1; int32 RecordCount=2;}
+
+message MovieSimpleProto{
+	int32    Id=1;
+	string   Title=2;
+	string   ReleaseDate=3;
+	string   MovieType=4;
+	string   Language=5;
+	float    Price=6;
+	string   Genre=7;
+	string   Director=8;
+	repeated ActorProto Actors=9;
+	string  provider=10;
+}
+message MovieProto{
+	int32    Id=1;
+	string   Title=2;
+	string   ReleaseDate=3;
+	int32    TypeId=4;
+	int32    LanguageId=5;
+	float    Price=6;
+	int32    GenreId=7;
+	int32    DirectorId=8;
+	repeated ActorProto Actors=9;
+	DirectorProto MovieDirector=10;
+	MovieTypeProto MovieType=11;
+	MovieLanguagesProto Language=12;
+	MovieGenresProto Genre=13;
+}
+message ActorProto {
+	int32 Id=1;
+	string Name=2;
+	string FirstName=3;
+	string LastName=4;
+	int32 GenderId=5;
+	string Gender=6;
+}
+
+message DirectorProto {
+	int32 Id=1;
+	string Name =2;
+	string FirstName=3;
+	string LastName=4;
+	int32 GenderId=5;
+	string Gender=6;
+}
+
+message MovieTypeProto{
+	int32 Id=1;
+	string Name=2;
+}
+
+message MovieLanguagesProto {
+	int32 Id=1;
+	string  Language=2;
+}
+
+message MovieGenresProto {
+	int32 Id=1;
+	string  Genre=2;
+}

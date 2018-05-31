@@ -1,0 +1,11 @@
+/home/bimal/RiderProjects/WebJet/WebJet/bin/Debug/netcoreapp2.0/WebJet.deps.json
+/home/bimal/RiderProjects/WebJet/WebJet/bin/Debug/netcoreapp2.0/WebJet.runtimeconfig.json
+/home/bimal/RiderProjects/WebJet/WebJet/bin/Debug/netcoreapp2.0/WebJet.runtimeconfig.dev.json
+/home/bimal/RiderProjects/WebJet/WebJet/bin/Debug/netcoreapp2.0/WebJet.dll
+/home/bimal/RiderProjects/WebJet/WebJet/bin/Debug/netcoreapp2.0/WebJet.pdb
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.csprojResolveAssemblyReference.cache
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.csproj.CoreCompileInputs.cache
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.AssemblyInfoInputs.cache
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.AssemblyInfo.cs
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.dll
+/home/bimal/RiderProjects/WebJet/WebJet/obj/Debug/netcoreapp2.0/WebJet.pdb

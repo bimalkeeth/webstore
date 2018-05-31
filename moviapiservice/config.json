@@ -1,0 +1,4 @@
+{
+  "Provider": "mysql",
+  "HostName": "localhost"
+}

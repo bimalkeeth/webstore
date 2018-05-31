@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/bimal/RiderProjects/WebJet/WebJet/WebJet.csproj",
+    "projectName": "WebJet",
+    "projectPath": "/home/bimal/RiderProjects/WebJet/WebJet/WebJet.csproj",
+    "outputPath": "/home/bimal/RiderProjects/WebJet/WebJet/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.6, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.2, )"
+        },
+        "bootstrap": {
+          "target": "Package",
+          "version": "[4.1.1, )"
+        },
+        "jQuery": {
+          "target": "Package",
+          "version": "[3.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

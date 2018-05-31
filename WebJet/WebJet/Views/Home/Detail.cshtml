@@ -1,0 +1,34 @@
+﻿@model MoviePVm
+
+<div class="container">
+   <div class="row">
+      <div class="col-lg-4">Title</div>
+      <div class="col-lg-6">@Model.Title</div>
+   </div> 
+   <div class="row">
+      <div class="col-lg-4">Type</div>
+      <div class="col-lg-6">@Model.MovieType.Name</div>
+   </div> 
+   <div class="row">
+      <div class="col-lg-4">Language</div>
+      <div class="col-lg-6">@Model.Language.Language</div>
+   </div>
+   <div class="row">
+      <div class="col-lg-4">Director</div>
+      <div class="col-lg-6">@Model.MovieDirector.Name</div>
+   </div>
+   <div class="row">
+      <div class="col-lg-4">Genre</div>
+      <div class="col-lg-6">@Model.Genre.Genre</div>
+   </div>
+   
+   <div class="row ">
+      <div class="col-lg-2 ">Actor</div>
+   </div>
+   @foreach (var mov in Model.Actors)
+   {
+         <div class="row">
+            <div class="col-lg-2 rowodd">@mov.Name</div>
+         </div>
+   }
+</div>

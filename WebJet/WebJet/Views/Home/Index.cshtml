@@ -1,0 +1,45 @@
+﻿@model List<MovieVm>
+
+
+<div class="container">
+    <div class="row header">
+        <div class="col-lg-2 coltext">Title</div>
+        <div class="col-lg-2 coltext">Director</div>
+        <div class="col-lg-2 coltext">Language</div>
+        <div class="col-lg-2 coltext">Movie Type</div>
+        <div class="col-lg-1 coltext">Price</div>
+        <div class="col-lg-1 coltext">Genre</div>
+        <div class="col-lg-1 coltext"></div>
+    </div>
+    @{
+        var counter = 0;
+    }
+    @foreach (var mov in Model)
+    {
+        if (counter % 2 == 0)
+        {
+            <div class="row">
+                <div class="col-lg-2 rowodd">@mov.Title</div>
+                <div class="col-lg-2 rowodd">@mov.Director</div>
+                <div class="col-lg-2 rowodd">@mov.Language</div>
+                <div class="col-lg-2 rowodd">@mov.MovieType</div>
+                <div class="col-lg-1 rowodd">@mov.Price.ToString("c")</div>
+                <div class="col-lg-1 rowodd">@mov.Genre</div>
+                <div class="col-lg-1 rowodd"><a asp-action="Detail" asp-controller="home" asp-route-movieId=@mov.Id asp-route-provider=@mov.Provider>Detail</a></div>
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                <div class="col-lg-2 rowoev">@mov.Title</div>
+                <div class="col-lg-2 rowoev">@mov.Director</div>
+                <div class="col-lg-2 rowoev">@mov.Language</div>
+                <div class="col-lg-2 rowoev">@mov.MovieType</div>
+                <div class="col-lg-1 rowoev">@mov.Price.ToString("c")</div>
+                <div class="col-lg-1 rowoev">@mov.Genre</div>
+                <div class="col-lg-1 rowodd"><a asp-action="Detail" asp-controller="home" asp-route-movieId=@mov.Id asp-route-provider=@mov.Provider>Detail</a></div>
+            </div>
+        }
+        counter++;
+    }
+</div>

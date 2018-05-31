@@ -1,0 +1,11 @@
+{
+  "Provider": "mysql",
+  "HostName": "localhost",
+  "Port":"3306",
+  "user":"root",
+  "Password":"root",
+  "Database":"cinema",
+  "Create":true,
+  "Migrate":true,
+  "ConnType":0
+}

@@ -1,0 +1,33 @@
+[ {
+  "ErrorCode":"ERR001",
+  "ErrorDescription":"Database connection was not successful"
+  },
+  {
+    "ErrorCode":"ERR002",
+    "ErrorDescription":"Date conversion failed"
+  },
+  {
+    "ErrorCode":"ERR003",
+    "ErrorDescription":"String to integer conversion failed"
+  },
+  {
+    "ErrorCode":"ERR004",
+    "ErrorDescription":"Resource recovered while panic "
+  },
+  {
+    "ErrorCode":"ERR005_AUTHOERROR",
+    "ErrorDescription":"Error in authorization"
+  },
+  {
+    "ErrorCode":"ERR006_INVALIDTOKEN",
+    "ErrorDescription":"Invalid authorization token"
+  },
+  {
+    "ErrorCode":"ERR007_AUTHOHEADER_REQUIRED",
+    "ErrorDescription":"An authorization header is required"
+  },
+  {
+    "ErrorCode":"ERR008",
+    "ErrorDescription":"Maintenance task type not found"
+  }
+]

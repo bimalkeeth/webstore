@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e141311-e8c3-421e-87bc-519aa95600f8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="filepath.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/filepath.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <element signature="e#16#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cinemaworld.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cinemaworld.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moviapiregister.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviapiregister.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cinemapro.micro.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proto/cinema/cinemapro.micro.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="113" column="28" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filmworldpro.micro.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proto/filmworld/filmworldpro.micro.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/contacts/data/movie.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routeregistry.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error_loader.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/error_loader.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moviesapi.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moviesreader.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper/moviesreader.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-273">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/contacts/internal/actorchanel.go" />
+        <option value="$PROJECT_DIR$/dataservice/sqlservice/commonconnection.go" />
+        <option value="$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go" />
+        <option value="$PROJECT_DIR$/common/tokenvalidator/jsonweb_validator.go" />
+        <option value="$PROJECT_DIR$/manageservice/apiroutemanager/moviapiregister.go" />
+        <option value="$PROJECT_DIR$/common/error_loader.go" />
+        <option value="$PROJECT_DIR$/errorcodes.json" />
+        <option value="$PROJECT_DIR$/helper/moviesreader.go" />
+        <option value="$PROJECT_DIR$/accessconfig.json" />
+        <option value="$PROJECT_DIR$/common/contacts/configuration/configcontract.go" />
+        <option value="$PROJECT_DIR$/common/filepath.go" />
+        <option value="$PROJECT_DIR$/cinemaworld.go" />
+        <option value="$PROJECT_DIR$/common/contacts/data/movie.go" />
+        <option value="$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="980" />
+    <option name="y" value="64" />
+    <option name="width" value="908" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="moviapiservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moviapiservice" type="72ca9032:PsiDirectoryNodeCustom" />
+            </path>
+            <path>
+              <item name="moviapiservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moviapiservice" type="72ca9032:PsiDirectoryNodeCustom" />
+              <item name="manageservice" type="72ca9032:PsiDirectoryNodeCustom" />
+            </path>
+            <path>
+              <item name="moviapiservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moviapiservice" type="72ca9032:PsiDirectoryNodeCustom" />
+              <item name="manageservice" type="72ca9032:PsiDirectoryNodeCustom" />
+              <item name="apiroutemanager" type="72ca9032:PsiDirectoryNodeCustom" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cinamaservice" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proto/filmworld" />
+      <recent name="$PROJECT_DIR$/proto/cinema" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build cinemaworld.go">
+    <configuration name="go build cinemaworld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="moviapiservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cinemaworld.go" />
+      <package value="moviapiservice" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build moviesapi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="moviapiservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build cinemaworld.go" />
+      <item itemvalue="Go Build.go build moviesapi.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build cinemaworld.go" />
+        <item itemvalue="Go Build.go build moviesapi.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1922" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286638" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14802982" />
+      <window_info anchor="right" id="ReST Console" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35668105" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go</url>
+          <line>156</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go</url>
+          <line>117</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/helper/moviesreader.go</url>
+          <line>66</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="63" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper/moviesreader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="62" column="11" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/configuration/exception_message.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tokenvalidator/jsonweb_validator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/error_loader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemaworld.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errorcodes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="146" column="36" lean-forward="true" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/filepath.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviapiregister.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/data/movie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/filepath.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviapiregister.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/data/movie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="135" column="19" lean-forward="true" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/businessservice/moviedetails/moviedetail_engine.go" />
+    <entry file="file://$PROJECT_DIR$/common/contacts/configuration/errordata.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/database_configuration.go" />
+    <entry file="file://$PROJECT_DIR$/dataservice/sqlservice/commonconnection.go" />
+    <entry file="file://$PROJECT_DIR$/manageservice/dbbootstrap/boostrapdb.go" />
+    <entry file="file:///usr/local/go/src/sort/search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="2794" selection-start-line="2794" selection-end-line="2794" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/micro/go-micro/go-micro.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/micro/go-micro/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/configuration/dbconfig.go" />
+    <entry file="file://$PROJECT_DIR$/common/contacts/internal/actorchanel.go" />
+    <entry file="file://$PROJECT_DIR$/common/enums/dbtypes.go" />
+    <entry file="file://$PROJECT_DIR$/common/enums/operationtypes.go" />
+    <entry file="file://$PROJECT_DIR$/common/contacts/configuration/exception_message.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tokenvalidator/jsonweb_validator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errorcodes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/data/movie_actor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="14" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="511" lean-forward="true" selection-start-line="511" selection-end-line="511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/gorilla/mux/context_native.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="572" selection-start-line="572" selection-end-line="572" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/configuration/configcontract.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/error_loader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/filepath.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#16#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/routeregistry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cinemaworld.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/cinema/cinemapro.micro.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="113" column="28" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/filmworld/filmworldpro.micro.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/contacts/data/movie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper/moviesreader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviesapi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageservice/apiroutemanager/moviapiregister.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea7dcf5e-a87e-486e-bae3-5ba6e35ba16c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+              <folding>
+                <marker date="1527796920132" expanded="true" signature="6:221" ph="..." />
+                <marker date="1527796920132" expanded="true" signature="251:2804" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="298:2802" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="423:870" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="641:826" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="948:1453" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="1208:1405" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="1504:1962" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="1732:1918" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="2019:2475" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="2245:2431" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="2523:2627" ph="{...}" />
+                <marker date="1527796920132" expanded="true" signature="2665:2796" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieVM.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Models/MovieVM.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <marker date="1527796159669" expanded="true" signature="38:2270" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="65:483" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="510:1171" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="1207:1497" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="1536:1826" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="1858:1970" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="2005:2120" ph="{...}" />
+                <marker date="1527796159669" expanded="true" signature="2150:2261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Detail.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Detail.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+              <folding>
+                <marker date="1527796594174" expanded="true" signature="17:909" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="44:158" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="163:285" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="290:419" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="423:553" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="557:677" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="685:754" ph="&lt;div.../&gt;" />
+                <marker date="1527796594174" expanded="true" signature="758:902" ph="@..." />
+                <marker date="1527796594174" expanded="true" signature="792:902" ph="{...}" />
+                <marker date="1527796594174" expanded="true" signature="807:897" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="44" selection-end-column="6" />
+              <folding>
+                <marker date="1527797003252" expanded="true" signature="23:1855" ph="&lt;div.../&gt;" />
+                <marker date="1527797003252" expanded="true" signature="51:442" ph="&lt;div.../&gt;" />
+                <marker date="1527797003252" expanded="true" signature="447:480" ph="@..." />
+                <marker date="1527797003252" expanded="true" signature="485:1848" ph="@..." />
+                <marker date="1527797003252" expanded="true" signature="512:1848" ph="{...}" />
+                <marker date="1527797003252" expanded="true" signature="548:1179" ph="{...}" />
+                <marker date="1527797003252" expanded="true" signature="571:1169" ph="&lt;div.../&gt;" />
+                <marker date="1527797003252" expanded="true" signature="1192:1823" ph="{...}" />
+                <marker date="1527797003252" expanded="true" signature="1215:1813" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/wwwroot/css/site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="65" column="7" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/wwwroot/css/site.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <marker date="1527796920124" expanded="true" signature="16:3226" ph="&lt;html.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="23:840" ph="&lt;head.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="188:378" ph="&lt;environment.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="383:832" ph="&lt;environment.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="841:3218" ph="&lt;body.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="852:1829" ph="&lt;nav.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="913:1818" ph="&lt;div.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="949:1371" ph="&lt;div.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="993:1337" ph="&lt;button.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="1384:1803" ph="&lt;div.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="1439:1784" ph="&lt;ul.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="1834:1993" ph="&lt;div.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="1916:1982" ph="&lt;footer.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="1999:2253" ph="&lt;environment.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="2258:3162" ph="&lt;environment.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="2302:2650" ph="&lt;script.../&gt;" />
+                <marker date="1527796920124" expanded="true" signature="2659:3068" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Film.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Film.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <marker date="1527797003248" expanded="true" signature="21:1853" ph="&lt;div.../&gt;" />
+                <marker date="1527797003248" expanded="true" signature="49:440" ph="&lt;div.../&gt;" />
+                <marker date="1527797003248" expanded="true" signature="445:478" ph="@..." />
+                <marker date="1527797003248" expanded="true" signature="483:1846" ph="@..." />
+                <marker date="1527797003248" expanded="true" signature="510:1846" ph="{...}" />
+                <marker date="1527797003248" expanded="true" signature="546:1177" ph="{...}" />
+                <marker date="1527797003248" expanded="true" signature="569:1167" ph="&lt;div.../&gt;" />
+                <marker date="1527797003248" expanded="true" signature="1190:1821" ph="{...}" />
+                <marker date="1527797003248" expanded="true" signature="1213:1811" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cinema.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Cinema.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1527797003256" expanded="true" signature="21:1853" ph="&lt;div.../&gt;" />
+                <marker date="1527797003256" expanded="true" signature="49:440" ph="&lt;div.../&gt;" />
+                <marker date="1527797003256" expanded="true" signature="445:478" ph="@..." />
+                <marker date="1527797003256" expanded="true" signature="483:1846" ph="@..." />
+                <marker date="1527797003256" expanded="true" signature="510:1846" ph="{...}" />
+                <marker date="1527797003256" expanded="true" signature="546:1177" ph="{...}" />
+                <marker date="1527797003256" expanded="true" signature="569:1167" ph="&lt;div.../&gt;" />
+                <marker date="1527797003256" expanded="true" signature="1190:1821" ph="{...}" />
+                <marker date="1527797003256" expanded="true" signature="1213:1811" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Contact.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1527784405501" expanded="true" signature="0:39" ph="@..." />
+                <marker date="1527784405501" expanded="true" signature="99:231" ph="&lt;address.../&gt;" />
+                <marker date="1527784405501" expanded="true" signature="233:447" ph="&lt;address.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Home</find>
+      <find>.navbar-inverse</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebJet/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Models/MovieVM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/Cinema.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/Film.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/Home/Detail.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebJet/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebJet/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/WebJet/Models/MovieVM.cs" />
+        <option value="$PROJECT_DIR$/WebJet/Views/Home/Detail.cshtml" />
+        <option value="$PROJECT_DIR$/WebJet/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/WebJet/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/WebJet/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebJet/Views/Home/Film.cshtml" />
+        <option value="$PROJECT_DIR$/WebJet/Views/Home/Cinema.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="24" />
+    <option name="width" value="878" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WebJet (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WebJet (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebJet" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WebJet (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebJet" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WebJet (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebJet" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="WebJet (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WebJet" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebJet/bin/Debug/netcoreapp2.0/WebJet.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebJet" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebJet/WebJet.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7dcf5e-a87e-486e-bae3-5ba6e35ba16c" name="Default" comment="" />
+      <created>1527784408061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527784408061</updated>
+      <workItem from="1527784409798" duration="12362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12362000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1922" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32912722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32912722" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WebJet/Controllers/HomeController.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/WebJet/Controllers/HomeController.cs" initialLine="29">
+            <startOffsets>
+              <startOffset value="979" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1005" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebJet/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/bundleconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784413106" expanded="false" signature="6:258" ph="..." />
+            <marker date="1527784413106" expanded="true" signature="276:1372" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="303:1370" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="362:425" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="648:699" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="887:1364" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="934:1011" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="1028:1112" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="1181:1352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784413106" expanded="true" signature="6:255" ph="..." />
+            <marker date="1527784413106" expanded="true" signature="273:594" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="300:592" ph="{...}" />
+            <marker date="1527784413106" expanded="true" signature="353:411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Shared/_ValidationScriptsPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784405509" expanded="true" signature="0:221" ph="&lt;environment.../&gt;" />
+            <marker date="1527784405509" expanded="true" signature="222:1153" ph="&lt;environment.../&gt;" />
+            <marker date="1527784405509" expanded="true" signature="262:656" ph="&lt;script.../&gt;" />
+            <marker date="1527784405509" expanded="true" signature="661:1138" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784405505" expanded="true" signature="22:59" ph="@..." />
+            <marker date="1527784405505" expanded="true" signature="176:289" ph="@..." />
+            <marker date="1527784405505" expanded="true" signature="201:289" ph="{...}" />
+            <marker date="1527784405505" expanded="true" signature="208:287" ph="&lt;p.../&gt;" />
+            <marker date="1527784405505" expanded="true" signature="317:452" ph="&lt;p.../&gt;" />
+            <marker date="1527784405505" expanded="true" signature="453:843" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784405513" expanded="true" signature="38:204" ph="{...}" />
+            <marker date="1527784405513" expanded="true" signature="72:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527784405509" expanded="false" signature="7:34" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1527784405509" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1527784405497" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/wwwroot/css/site.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1527784405501" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1527784405501" expanded="true" signature="99:231" ph="&lt;address.../&gt;" />
+            <marker date="1527784405501" expanded="true" signature="233:447" ph="&lt;address.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Models/MovieVM.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <marker date="1527796159669" expanded="true" signature="38:2270" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="65:483" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="510:1171" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="1207:1497" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="1536:1826" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="1858:1970" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="2005:2120" ph="{...}" />
+            <marker date="1527796159669" expanded="true" signature="2150:2261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Detail.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <marker date="1527796594174" expanded="true" signature="17:909" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="44:158" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="163:285" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="290:419" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="423:553" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="557:677" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="685:754" ph="&lt;div.../&gt;" />
+            <marker date="1527796594174" expanded="true" signature="758:902" ph="@..." />
+            <marker date="1527796594174" expanded="true" signature="792:902" ph="{...}" />
+            <marker date="1527796594174" expanded="true" signature="807:897" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+          <folding>
+            <marker date="1527796920132" expanded="true" signature="6:221" ph="..." />
+            <marker date="1527796920132" expanded="true" signature="251:2804" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="298:2802" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="423:870" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="641:826" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="948:1453" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="1208:1405" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="1504:1962" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="1732:1918" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="2019:2475" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="2245:2431" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="2523:2627" ph="{...}" />
+            <marker date="1527796920132" expanded="true" signature="2665:2796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1527796920124" expanded="true" signature="16:3226" ph="&lt;html.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="23:840" ph="&lt;head.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="188:378" ph="&lt;environment.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="383:832" ph="&lt;environment.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="841:3218" ph="&lt;body.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="852:1829" ph="&lt;nav.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="913:1818" ph="&lt;div.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="949:1371" ph="&lt;div.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="993:1337" ph="&lt;button.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="1384:1803" ph="&lt;div.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="1439:1784" ph="&lt;ul.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="1834:1993" ph="&lt;div.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="1916:1982" ph="&lt;footer.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="1999:2253" ph="&lt;environment.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="2258:3162" ph="&lt;environment.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="2302:2650" ph="&lt;script.../&gt;" />
+            <marker date="1527796920124" expanded="true" signature="2659:3068" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <marker date="1527797003252" expanded="true" signature="23:1855" ph="&lt;div.../&gt;" />
+            <marker date="1527797003252" expanded="true" signature="51:442" ph="&lt;div.../&gt;" />
+            <marker date="1527797003252" expanded="true" signature="447:480" ph="@..." />
+            <marker date="1527797003252" expanded="true" signature="485:1848" ph="@..." />
+            <marker date="1527797003252" expanded="true" signature="512:1848" ph="{...}" />
+            <marker date="1527797003252" expanded="true" signature="548:1179" ph="{...}" />
+            <marker date="1527797003252" expanded="true" signature="571:1169" ph="&lt;div.../&gt;" />
+            <marker date="1527797003252" expanded="true" signature="1192:1823" ph="{...}" />
+            <marker date="1527797003252" expanded="true" signature="1215:1813" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Film.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1527797003248" expanded="true" signature="21:1853" ph="&lt;div.../&gt;" />
+            <marker date="1527797003248" expanded="true" signature="49:440" ph="&lt;div.../&gt;" />
+            <marker date="1527797003248" expanded="true" signature="445:478" ph="@..." />
+            <marker date="1527797003248" expanded="true" signature="483:1846" ph="@..." />
+            <marker date="1527797003248" expanded="true" signature="510:1846" ph="{...}" />
+            <marker date="1527797003248" expanded="true" signature="546:1177" ph="{...}" />
+            <marker date="1527797003248" expanded="true" signature="569:1167" ph="&lt;div.../&gt;" />
+            <marker date="1527797003248" expanded="true" signature="1190:1821" ph="{...}" />
+            <marker date="1527797003248" expanded="true" signature="1213:1811" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebJet/Views/Home/Cinema.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1527797003256" expanded="true" signature="21:1853" ph="&lt;div.../&gt;" />
+            <marker date="1527797003256" expanded="true" signature="49:440" ph="&lt;div.../&gt;" />
+            <marker date="1527797003256" expanded="true" signature="445:478" ph="@..." />
+            <marker date="1527797003256" expanded="true" signature="483:1846" ph="@..." />
+            <marker date="1527797003256" expanded="true" signature="510:1846" ph="{...}" />
+            <marker date="1527797003256" expanded="true" signature="546:1177" ph="{...}" />
+            <marker date="1527797003256" expanded="true" signature="569:1167" ph="&lt;div.../&gt;" />
+            <marker date="1527797003256" expanded="true" signature="1190:1821" ph="{...}" />
+            <marker date="1527797003256" expanded="true" signature="1213:1811" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
